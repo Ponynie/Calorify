@@ -21,7 +21,8 @@ Once the application is running, you can upload an image of food using the file 
 
 ## Model Training
 
-The PyTorch model used in this application was trained using a separate codebase available in [this repository]((https://github.com/Ponynie/Popular-Food_Image-Classification.git). For details on how the model was trained, please refer to that repository.
+The PyTorch model used in this application was trained using a separate codebase available in [this repository](https://github.com/Ponynie/Popular-Food_Image-Classification.git). For details on how the model was trained, please refer to that repository.
+
 
 
 ## License
