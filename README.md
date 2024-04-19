@@ -1,6 +1,6 @@
-# Calorify: A Food Image Classification App
+# Calorify: A Calories Prediction App
 
-Calorify is a Streamlit application that uses a PyTorch model to classify images of food. The application takes an image as input and predicts the type of food in the image.
+Calorify is a Streamlit application that uses a PyTorch model to predict the calories of the food from images. The application takes an image as input and predicts the calories of food in the image.
 
 ## Installation
 
@@ -19,9 +19,10 @@ streamlit run app.py
 ```
 Once the application is running, you can upload an image of food using the file uploader. The application will then classify the image and display the predicted type of food.
 
-## Contributing
+## Model Training
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+The PyTorch model used in this application was trained using a separate codebase available in [this repository]([link-to-your-model-training-repo](https://github.com/Ponynie/Popular-Food_Image-Classification.git). For details on how the model was trained, please refer to that repository.
+
 
 ## License
 
