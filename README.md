@@ -17,7 +17,7 @@ To run the application, use the following command:
 ```bash
 streamlit run app.py
 ```
-Once the application is running, you can upload an image of food using the file uploader. The application will then classify the image and display the predicted type of food.
+Once the application is running, you can upload an image of food using the file uploader. The application will then classify the image and display the predicted type of food and its calories.
 
 ## Model Training
 
